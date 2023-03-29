@@ -1,0 +1,23 @@
+{
+    "name":"Food App",
+    "short_name" : "foodapp" ,
+    "start_url" : "/SEJAL/index.html" ,
+    "display": "standalone" ,
+    "background_color":"#FFE902" ,
+    "theme_color": "#317EFB",
+    "orientation" : "portrait-primary" ,
+    "icons":[
+        {
+            "src":"/img/bb.png",
+            "type":"image/png",
+            "sizes":"144x144"
+            
+        },
+        {
+            "src": "/img/cc.png",
+            "type":"image/png" ,
+            "sizes":"512x512" ,
+            "purpose":"maskable"
+        }
+    ]
+}
